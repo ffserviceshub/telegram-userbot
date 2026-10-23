@@ -30,7 +30,7 @@ MESSAGES_SCHEDULE = [
     {"time": "19:12", "text": "/likes 1713314437"},
     {"time": "19:14", "text": "/like bd 1713314437"},
     {"time": "19:16", "text": "/like bd 10291533820"},
-    {"time": "19:18", "text": "/likes 7266770972"}
+    {"time": "19:18", "text": "/likes 7266770972"},
     {"time": "19:20", "text": "/like bd 7266770972"}
 ]
 
