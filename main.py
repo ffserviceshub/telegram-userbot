@@ -26,12 +26,12 @@ BD_OFFSET = timezone(timedelta(hours=6))
 
 # ৩. মেসেজ শিডিউল
 MESSAGES_SCHEDULE = [
-    {"time": "19:10", "text": "/likes 10291533820"},
-    {"time": "19:12", "text": "/likes 1713314437"},
-    {"time": "19:14", "text": "/like bd 1713314437"},
-    {"time": "19:16", "text": "/like bd 10291533820"},
-    {"time": "19:18", "text": "/likes 7266770972"},
-    {"time": "22:00", "text": "/like bd 7266770972"}
+    {"time": "12:10", "text": "/likes 10291533820"},
+    {"time": "12:12", "text": "/likes 1713314437"},
+    {"time": "12:14", "text": "/like bd 1713314437"},
+    {"time": "12:16", "text": "/like bd 10291533820"},
+    {"time": "12:18", "text": "/likes 7266770972"},
+    {"time": "12:20", "text": "/like bd 7266770972"}
 ]
 
 client = TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
