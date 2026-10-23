@@ -31,7 +31,7 @@ MESSAGES_SCHEDULE = [
     {"time": "19:14", "text": "/like bd 1713314437"},
     {"time": "19:16", "text": "/like bd 10291533820"},
     {"time": "19:18", "text": "/likes 7266770972"},
-    {"time": "21:50", "text": "/like bd 7266770972"}
+    {"time": "22:00", "text": "/like bd 7266770972"}
 ]
 
 client = TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
