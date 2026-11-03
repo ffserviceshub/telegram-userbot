@@ -28,8 +28,8 @@ BD_OFFSET = timezone(timedelta(hours=6))
 MESSAGES_SCHEDULE = [
     {"time": "12:10", "text": "/like bd 10291533820"},
     {"time": "12:12", "text": "/like bd 7266770972"},
-    {"time": "12:14", "text": "/like bd 1713314437"},
-    {"time": "12:16", "text": "/likes 1713314437"},
+    {"time": "12:14", "text": "v"},
+    {"time": "12:16", "text": "v"},
     {"time": "12:18", "text": "/likes 7266770972"},
     {"time": "12:20", "text": "/likes 10291533820"}
 ]
